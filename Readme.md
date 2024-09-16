@@ -1,5 +1,10 @@
 ## HASKELL EXERCISES
 
+### Integrantes
+
+- Juan Diego Lozada Gonzalez 20222020014
+- Cesar Augusto Pulido 20222020048
+
 Develop the next exercises using haskell with the purpose to know the functional paradigm:
 
 - 1) Define the function ultimaCifra such that (ultimaCifra x) is the last digit of the number x. 
